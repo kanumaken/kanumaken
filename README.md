@@ -1,7 +1,4 @@
-- 
-Got it! Let's update both the profile README and the cover letter to include "Nedamco Africa."
 
-Here's the profile README with the updated company name:
 
 👋 Hello, I'm Kanuma Rukeba Ken!(@kanumaken)
 I'm a passionate software engineer with expertise in Python, C#, and React. I specialize in building robust and scalable applications across various domains, from web development to desktop applications.
